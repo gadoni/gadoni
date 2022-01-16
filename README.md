@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gadoni
+- 👀 I’m interested in full stack development (javascript)
+- 🌱 I’m currently learning ReactJs (17), NextJs (12), NodeJs (14)
+- 💞️ I’m looking to collaborate on NextJs projects
